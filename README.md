@@ -1,16 +1,6 @@
-# wallpaper_app
+# wallpaper_app with API
 
-A new Flutter project.
+![Banner](https://github.com/johnmaths9/Wallpapers/blob/master/assets/Screenshot%202023-07-16%20220702.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you liked my project, don’t forget to ⭐ star the repo to show your support.
+Thank you!!!
